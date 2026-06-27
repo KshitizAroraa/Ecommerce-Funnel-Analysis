@@ -1,0 +1,121 @@
+product_id,product_name,category,subcategory,brand,price,cost,stock_quantity
+1,Galaxy S24 Ultra,Electronics,Smartphones,Samsung,1199.0,659.45,377
+2,iPhone 15 Pro,Electronics,Smartphones,Apple,1099.0,571.48,107
+3,OnePlus 12,Electronics,Smartphones,OnePlus,799.0,399.5,62
+4,Pixel 8 Pro,Electronics,Smartphones,Google,999.0,529.47,429
+5,Redmi Note 13 Pro,Electronics,Smartphones,Xiaomi,349.0,167.52,190
+6,Galaxy A54,Electronics,Smartphones,Samsung,449.0,224.5,175
+7,iPhone 14,Electronics,Smartphones,Apple,699.0,363.48,164
+8,MacBook Pro 14-inch,Electronics,Laptops,Apple,1999.0,1159.42,121
+9,XPS 15,Electronics,Laptops,Dell,1799.0,989.45,427
+10,Spectre x360,Electronics,Laptops,HP,1499.0,809.46,102
+11,ThinkPad X1 Carbon,Electronics,Laptops,Lenovo,1649.0,923.44,396
+12,ROG Zephyrus G14,Electronics,Laptops,ASUS,1399.0,755.46,429
+13,Swift 3,Electronics,Laptops,Acer,649.0,324.5,329
+14,Surface Pro 9,Electronics,Laptops,Microsoft,1299.0,714.45,94
+15,iPad Pro 12.9,Electronics,Tablets,Apple,1099.0,593.46,352
+16,Galaxy Tab S9,Electronics,Tablets,Samsung,799.0,415.48,266
+17,Fire HD 10,Electronics,Tablets,Amazon,149.0,67.05,66
+18,Tab P12 Pro,Electronics,Tablets,Lenovo,599.0,299.5,65
+19,WH-1000XM5,Electronics,Headphones,Sony,349.0,157.05,97
+20,QuietComfort 45,Electronics,Headphones,Bose,329.0,144.76,161
+21,AirPods Pro 2,Electronics,Headphones,Apple,249.0,114.54,169
+22,Evolve2 75,Electronics,Headphones,Jabra,449.0,211.03,308
+23,HD 660S2,Electronics,Headphones,Sennheiser,499.0,239.52,358
+24,Galaxy Buds2 Pro,Electronics,Headphones,Samsung,199.0,87.56,63
+25,Apple Watch Series 9,Electronics,Smart Watches,Apple,399.0,199.5,337
+26,Galaxy Watch 6 Classic,Electronics,Smart Watches,Samsung,349.0,167.52,151
+27,Fenix 7X,Electronics,Smart Watches,Garmin,799.0,415.48,416
+28,Sense 2,Electronics,Smart Watches,Fitbit,249.0,114.54,382
+29,Alpha 7 IV,Electronics,Cameras,Sony,2499.0,1499.4,409
+30,EOS R6 Mark II,Electronics,Cameras,Canon,2499.0,1499.4,329
+31,Z6 III,Electronics,Cameras,Nikon,1999.0,1159.42,264
+32,X-T5,Electronics,Cameras,Fujifilm,1699.0,968.43,162
+33,Hero 12 Black,Electronics,Cameras,GoPro,399.0,199.5,279
+34,QLED 65-inch 4K,Electronics,TVs,Samsung,1299.0,701.46,351
+35,OLED C3 65-inch,Electronics,TVs,LG,1799.0,1007.44,192
+36,Bravia XR 55-inch,Electronics,TVs,Sony,1199.0,647.46,464
+37,75-inch QLED 4K,Electronics,TVs,TCL,699.0,349.5,495
+38,PlayStation 5,Electronics,Gaming,Sony,499.0,274.45,53
+39,Xbox Series X,Electronics,Gaming,Microsoft,499.0,274.45,438
+40,Switch OLED,Electronics,Gaming,Nintendo,349.0,181.48,462
+41,Steam Deck 512GB,Electronics,Gaming,Valve,649.0,350.46,131
+42,PowerBank 26800mAh,Electronics,Accessories,Anker,59.0,23.6,407
+43,MagSafe Charger,Electronics,Accessories,Belkin,39.0,14.82,266
+44,MX Master 3S Mouse,Electronics,Accessories,Logitech,99.0,41.58,224
+45,Magic Keyboard,Electronics,Accessories,Apple,129.0,56.76,192
+46,65W USB-C Charger,Electronics,Accessories,Samsung,49.0,18.62,129
+47,Galaxy S24 Ultra (v2),Electronics,Smartphones,Samsung,1115.07,613.29,440
+48,iPhone 15 Pro (v2),Electronics,Smartphones,Apple,1055.04,548.62,97
+49,OnePlus 12 (v2),Electronics,Smartphones,OnePlus,775.03,387.51,233
+50,Pixel 8 Pro (v2),Electronics,Smartphones,Google,1078.92,571.83,359
+51,Redmi Note 13 Pro (v2),Electronics,Smartphones,Xiaomi,328.06,157.47,72
+52,Galaxy A54 (v2),Electronics,Smartphones,Samsung,475.94,237.97,324
+53,iPhone 14 (v2),Electronics,Smartphones,Apple,636.09,330.77,243
+54,MacBook Pro 14-inch (v2),Electronics,Laptops,Apple,1799.1,1043.48,200
+55,XPS 15 (v2),Electronics,Laptops,Dell,1942.92,1068.61,366
+56,Spectre x360 (v2),Electronics,Laptops,HP,1633.91,882.31,235
+57,ThinkPad X1 Carbon (v2),Electronics,Laptops,Lenovo,1681.98,941.91,410
+58,ROG Zephyrus G14 (v2),Electronics,Laptops,ASUS,1259.1,679.91,388
+59,Swift 3 (v2),Electronics,Laptops,Acer,603.57,301.79,198
+60,Surface Pro 9 (v2),Electronics,Laptops,Microsoft,1454.88,800.18,487
+61,iPad Pro 12.9 (v2),Electronics,Tablets,Apple,1033.06,557.85,101
+62,Galaxy Tab S9 (v2),Electronics,Tablets,Samsung,775.03,403.02,282
+63,Fire HD 10 (v2),Electronics,Tablets,Amazon,153.47,69.06,236
+64,Tab P12 Pro (v2),Electronics,Tablets,Lenovo,551.08,275.54,231
+65,WH-1000XM5 (v2),Electronics,Headphones,Sony,324.57,146.06,186
+66,QuietComfort 45 (v2),Electronics,Headphones,Bose,345.45,152.0,399
+67,AirPods Pro 2 (v2),Electronics,Headphones,Apple,258.96,119.12,361
+68,Evolve2 75 (v2),Electronics,Headphones,Jabra,462.47,217.36,323
+69,HD 660S2 (v2),Electronics,Headphones,Sennheiser,523.95,251.5,133
+70,Galaxy Buds2 Pro (v2),Electronics,Headphones,Samsung,197.01,86.68,188
+71,Apple Watch Series 9 (v2),Electronics,Smart Watches,Apple,446.88,223.44,377
+72,Galaxy Watch 6 Classic (v2),Electronics,Smart Watches,Samsung,366.45,175.9,162
+73,Fenix 7X (v2),Electronics,Smart Watches,Garmin,830.96,432.1,481
+74,Sense 2 (v2),Electronics,Smart Watches,Fitbit,263.94,121.41,78
+75,Alpha 7 IV (v2),Electronics,Cameras,Sony,2324.07,1394.44,66
+76,EOS R6 Mark II (v2),Electronics,Cameras,Canon,2673.93,1604.36,255
+77,Z6 III (v2),Electronics,Cameras,Nikon,1879.06,1089.85,158
+78,X-T5 (v2),Electronics,Cameras,Fujifilm,1868.9,1065.27,340
+79,Hero 12 Black (v2),Electronics,Cameras,GoPro,434.91,217.46,211
+80,QLED 65-inch 4K (v2),Electronics,TVs,Samsung,1208.07,652.36,305
+81,OLED C3 65-inch (v2),Electronics,TVs,LG,1745.03,977.22,379
+82,Bravia XR 55-inch (v2),Electronics,TVs,Sony,1187.01,640.99,185
+83,75-inch QLED 4K (v2),Electronics,TVs,TCL,636.09,318.05,431
+84,PlayStation 5 (v2),Electronics,Gaming,Sony,503.99,277.19,184
+85,Xbox Series X (v2),Electronics,Gaming,Microsoft,528.94,290.92,269
+86,Switch OLED (v2),Electronics,Gaming,Nintendo,383.9,199.63,254
+87,Steam Deck 512GB (v2),Electronics,Gaming,Valve,629.53,339.95,120
+88,PowerBank 26800mAh (v2),Electronics,Accessories,Anker,59.0,23.6,96
+89,MagSafe Charger (v2),Electronics,Accessories,Belkin,41.34,15.71,490
+90,MX Master 3S Mouse (v2),Electronics,Accessories,Logitech,90.09,37.84,371
+91,Magic Keyboard (v2),Electronics,Accessories,Apple,118.68,52.22,398
+92,65W USB-C Charger (v3),Electronics,Accessories,Samsung,48.02,18.25,82
+93,Galaxy S24 Ultra (v3),Electronics,Smartphones,Samsung,1163.03,639.67,355
+94,iPhone 15 Pro (v3),Electronics,Smartphones,Apple,1230.88,640.06,320
+95,OnePlus 12 (v3),Electronics,Smartphones,OnePlus,751.06,375.53,333
+96,Pixel 8 Pro (v3),Electronics,Smartphones,Google,1088.91,577.12,55
+97,Redmi Note 13 Pro (v3),Electronics,Smartphones,Xiaomi,362.96,174.22,108
+98,Galaxy A54 (v3),Electronics,Smartphones,Samsung,466.96,233.48,324
+99,iPhone 14 (v3),Electronics,Smartphones,Apple,740.94,385.29,443
+100,MacBook Pro 14-inch (v3),Electronics,Laptops,Apple,2058.97,1194.2,107
+101,XPS 15 (v3),Electronics,Laptops,Dell,1709.05,939.98,130
+102,Spectre x360 (v3),Electronics,Laptops,HP,1484.01,801.37,419
+103,ThinkPad X1 Carbon (v3),Electronics,Laptops,Lenovo,1797.41,1006.55,184
+104,ROG Zephyrus G14 (v3),Electronics,Laptops,ASUS,1552.89,838.56,440
+105,Swift 3 (v3),Electronics,Laptops,Acer,597.08,298.54,104
+106,Surface Pro 9 (v3),Electronics,Laptops,Microsoft,1415.91,778.75,202
+107,iPad Pro 12.9 (v3),Electronics,Tablets,Apple,1186.92,640.94,309
+108,Galaxy Tab S9 (v3),Electronics,Tablets,Samsung,822.97,427.94,128
+109,Fire HD 10 (v3),Electronics,Tablets,Amazon,144.53,65.04,132
+110,Tab P12 Pro (v3),Electronics,Tablets,Lenovo,604.99,302.5,448
+111,WH-1000XM5 (v3),Electronics,Headphones,Sony,383.9,172.75,50
+112,QuietComfort 45 (v3),Electronics,Headphones,Bose,335.58,147.66,300
+113,AirPods Pro 2 (v3),Electronics,Headphones,Apple,219.12,100.8,235
+114,Evolve2 75 (v3),Electronics,Headphones,Jabra,489.41,230.02,475
+115,HD 660S2 (v3),Electronics,Headphones,Sennheiser,533.93,256.29,172
+116,Galaxy Buds2 Pro (v3),Electronics,Headphones,Samsung,177.11,77.93,499
+117,Apple Watch Series 9 (v3),Electronics,Smart Watches,Apple,406.98,203.49,90
+118,Galaxy Watch 6 Classic (v3),Electronics,Smart Watches,Samsung,314.1,150.77,298
+119,Fenix 7X (v3),Electronics,Smart Watches,Garmin,862.92,448.72,439
+120,Sense 2 (v3),Electronics,Smart Watches,Fitbit,251.49,115.69,114
